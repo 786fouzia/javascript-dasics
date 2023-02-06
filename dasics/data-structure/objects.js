@@ -1,0 +1,6 @@
+{
+    NAME ; "FOUZIA",
+    DESIGNATION; "DEVELOPER",
+    FRIENDS;[UZMA,SHEEMA],
+
+}

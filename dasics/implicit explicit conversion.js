@@ -9,3 +9,7 @@
 23 - true //22 // true is converted to 1 
 true - null //1
 false + undefined  // NaN // UNDEFINED INTO  NaN 
+
+// conversion to boolean explicitly
+Boolean("") // false
+Boolean(2)  // true
