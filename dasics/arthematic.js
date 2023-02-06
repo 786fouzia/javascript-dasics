@@ -3,3 +3,6 @@
 5 * 3  // 15 Multiply
 5 / 3  //1  Division
 5 % 3  //2 modulo Reminder value
+
+
+5  -  "fouzia" // NaN
