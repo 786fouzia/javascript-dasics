@@ -18,4 +18,4 @@ const myDetails = {
     city:city
 }
 
-console.log(Details);
+console.log("Details");
