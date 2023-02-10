@@ -5,6 +5,6 @@ const readline = require('readline-sync');
 console.log("Welcome to input and output program")
 
 //Ask user name from the input question
-const username = readline.question("Please enter your name:");
+const username = readline.question("Please specify your name: ");
 
-console.log('Hello $(username),Welcome to our program');
+console.log(`Hello ${username},welcome to our program`);
